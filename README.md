@@ -1,6 +1,6 @@
 # Pipeline-ETL-em-tempo-real-com-Airflow-Kafka-Spark-e-Cassandra
 
-![Architecture Diagram](image/architecture.jpg)
+<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/c347f5bc-7e26-40f3-a448-264ef26c1f61" />
 
 This project implements a real-time ETL architecture using the following technologies:
 
