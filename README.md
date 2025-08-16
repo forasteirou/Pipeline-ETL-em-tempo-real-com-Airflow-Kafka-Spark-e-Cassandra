@@ -1,4 +1,4 @@
-# Pipeline-ETL-em-tempo-real-com-Airflow-Kafka-Spark-e-Cassandra
+# Pipeline ETL em tempo real com Airflow Kafka Spark e Cassandra
 
 <img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/c347f5bc-7e26-40f3-a448-264ef26c1f61" />
 
